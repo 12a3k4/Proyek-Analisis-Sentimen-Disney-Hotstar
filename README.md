@@ -1,4 +1,4 @@
-# Proyek-Analisis-Sentimen-Disney-Hotstar
+# Proyek-Analisis-Sentimen-Disney+-Hotstar
 
 Submission Pertama dari course Belajar Pengembangan Machine Learning (Dicoding).
 
